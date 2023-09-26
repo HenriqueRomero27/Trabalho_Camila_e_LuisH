@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+.container {
+    padding: 2%;
+    font-family: 'Kanit', sans-serif;
+    background: rgb(201, 86, 86);
+}
+
+.nomeJogo {
+    margin-bottom: 15px;
+    font-size: 25pt;
+}
+
+.descricaoJogo {
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.precoJogo {
+    color: rgb(160, 9, 9);
+    margin-bottom: 10px;
+}
+
+.categoriaJogo {
+    color: rgb(155, 29, 29);
+}

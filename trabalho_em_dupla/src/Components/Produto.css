@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+.Container {
+    padding: 2%;
+    background: rgb(45, 98, 141);
+    font-family: 'Mooli', sans-serif;
+}
+
+.nomeProduto {
+    margin-bottom: 15px;
+    font-size: 25pt;
+}
+
+.precoProduto {
+    color: rgb(78, 190, 78);
+}
+
+.descricaoProduto {
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.categoriaProduto {
+    color: rgb(92, 248, 92);
+}
